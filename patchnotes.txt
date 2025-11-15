@@ -1,0 +1,9 @@
+Rift Guard :
+1. Jumlah alien lebih banyak (14)
+2. Gerakan semua alien pertama dilambatkan
+3. Alien respawn terbang lebih cepat
+4. semua sprite di gambar ulabg
+5. Jumlah peluru menjadi 3 per serangan dengan pola serangan . . .
+6. Jumlah alien yang harus diserang menjadi 45
+7. teks kalah dan menang diganti jadi triumphant dan vanquished
+8. DIsplay text menjadi RiftGuard
